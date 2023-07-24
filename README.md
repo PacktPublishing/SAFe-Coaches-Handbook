@@ -1,6 +1,6 @@
 # SAFe® Coaches Handbook
 
-<a href="https://www.packtpub.com/product/safereg-coaches-handbook/9781839210457?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="SAFe® Coaches Handbook" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/product/safereg-coaches-handbook/9781839210457?utm_source=github&utm_medium=repository&utm_campaign="><img src="https://content.packt.com/B15758/cover_image_small.jpg" alt="SAFe® Coaches Handbook" height="256px" align="right"></a>
 
 This is the code repository for [SAFe® Coaches Handbook](https://www.packtpub.com/product/safereg-coaches-handbook/9781839210457?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
 
